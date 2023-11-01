@@ -1,0 +1,99 @@
+@media only screen and (max-width: 576px) {
+    .navul>ul>li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .headerbtn {
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+    }
+
+    .headerbtn>button.btn1 {
+        margin: 0px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        width: 100% !important;
+    }
+
+    .headerbtn>button.btn2 {
+        margin-top: 10px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .navul>ul>li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .headerbtn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .headerbtn>button.btn1 {
+        margin: 0px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        width: 75%;
+    }
+
+    .headerbtn>button.btn2 {
+        margin-top: 10px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        width: 75%;
+    }
+
+    .cnt_1>h2,
+    .cnt_2>h2,
+    .cnt_3>h2,
+    .cnt_4>h2 {
+        margin-top: 30px !important;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .navul>ul>li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .headerbtn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .headerbtn>button.btn1 {
+        margin: 0px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        width: 75%;
+    }
+
+    .headerbtn>button.btn2 {
+        margin-top: 10px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        width: 75%;
+    }
+}
